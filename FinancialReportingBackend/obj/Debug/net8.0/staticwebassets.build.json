@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dpVzKvYQykilkDcPVdpcBzQAzpXkC5i/q+SpEnLGYWg=",
+  "Source": "FinancialReportingBackend",
+  "BasePath": "_content/FinancialReportingBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
