@@ -6,19 +6,13 @@ function Home() {
     <div className="Home">
       <h1>EisnerAmper Interview</h1>
       <p>
-        Welcome to my portfolio website, where you can get to know me and my work as a software developer.
+        Welcome to my portfolio website! Here, you'll get to know me and my journey as a software developer. With a strong foundation in front-end technologies like HTML, CSS, and JavaScript, I am proficient in frameworks and tools such as SASS, Bootstrap, Material UI, and RESTful APIs. My commitment to best practices in UI/UX design, version control with Git, and CI/CD ensures that my work is efficient, high-quality, and user-focused.
       </p>
       <p>
-        One of the highlights is the Car Wizard platform, a capstone project from my bootcamp, where I crafted user-friendly interfaces with React, ensuring a smooth experience across all devices. Another key project is the Steel Billet Inventory System, where I put my C# and ASP.NET skills to the test, creating a solid and scalable inventory management solution.
+        My educational background from Louisiana State University Shreveport and Fullstack Academy has provided me with a solid grounding in web development and agile methodologies. Throughout my career, I've gained hands-on experience in tackling real-world challenges, which has enhanced my problem-solving skills and adaptability.
       </p>
       <p>
-        I have a strong foundation in front-end technologies like HTML, CSS, and JavaScript, and I'm comfortable with frameworks and tools like SASS, Bootstrap, Material UI, and RESTful APIs. My work follows best practices in UI/UX design, version control with Git, and CI/CD to ensure efficiency and quality.
-      </p>
-      <p>
-        My journey includes hands-on experiences like the Car Wizard project and professional roles where I tackled real-world challenges, enhancing my problem-solving skills and adaptability. My education from Louisiana State University Shreveport and Fullstack Academy has equipped me with a solid grounding in web development and agile methodologies.
-      </p>
-      <p>
-        Take a look around my portfolio to see how my skills and experiences can bring value to EisnerAmper as a Staff Consultant. I'm excited about the opportunity to contribute to the development, testing, and implementation of web-based application systems, helping diverse clients achieve their goals.
+        I'm excited about the opportunity to bring my skills and experiences to EisnerAmper as a Staff Consultant. I look forward to contributing to the development, testing, and implementation of web-based application systems, helping diverse clients achieve their goals. Thank you for visiting my portfolio, and I hope you enjoy exploring my work.
       </p>
     </div>
   );
