@@ -1,0 +1,14 @@
+.Home {
+    padding: 20px;
+  }
+  
+  .Home nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .Home nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
